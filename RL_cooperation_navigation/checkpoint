@@ -1,0 +1,2 @@
+model_checkpoint_path: "dqn_multi_reward_moderate_500.ckpt"
+all_model_checkpoint_paths: "dqn_multi_reward_moderate_500.ckpt"
